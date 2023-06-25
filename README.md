@@ -33,3 +33,5 @@
 ⚡ Este projeto foi iniciado no dia 25/06/2023, porém, ainda está sendo desenvolvido. No entanto, em breve espero trazer muitas novidades para este repositório !!!
 
 ## Imagens
+
+Neste momento eu não possuo imagens para disponibilizar.
