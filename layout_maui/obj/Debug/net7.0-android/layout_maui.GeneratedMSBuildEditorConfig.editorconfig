@@ -43,3 +43,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = layout_maui.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Program Files/Ajuda/Cursos/Maui/Udemy/layout_maui/layout_maui/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = layout_maui.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = StackLayoutDemo.xaml
